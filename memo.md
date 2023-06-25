@@ -9,6 +9,29 @@ https://developer.chrome.com/docs/extensions/
 
 https://developer.chrome.com/docs/extensions/mv3/
 
+- 拡張機能101 
+   https://developer.chrome.com/docs/extensions/mv3/getstarted/extensions-101/
+- 開発基礎
+   https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/
+
+## 拡張機能 101
+
+### Chrome extensions とは何か？
+
+Chrome extensions は Chrome ブラウザに機能を追加することでブラウジング エクスペリエンスを向上させ、次のような機能を提供します。
+
+- 生産性向上ツール
+- Web ページのコンテンツの充実
+- 情報の集約
+
+### ウェブ技術
+
+拡張機能は、Web アプリケーションの作成に使用されるのと同じ Web テクノロジーを使用して作成されます。
+
+HTMLはコンテンツ マークアップ言語として使用されます。
+CSSはスタイル設定に使用されます。
+JavaScriptはスクリプトとロジックに使用されます。
+
 一般的なファイルの種類
 
 1. マニフェストファイル
